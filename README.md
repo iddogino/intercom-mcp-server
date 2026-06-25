@@ -157,6 +157,7 @@ Each AI provider has specific setup instructions for MCP servers. Please consult
 
 - **Claude Desktop**: [MCP setup documentation](https://modelcontextprotocol.io/quickstart/user)
 - **Claude Code**: [MCP setup documentation](https://docs.anthropic.com/en/docs/claude-code/mcp)
+- **Gamut**: In your [Gamut](https://www.gamut.so/mcp/communication/intercom) agent, go to **Connections** > **Add Connection**, search for **Intercom**, and authenticate
 - **OpenAI**: [MCP integration guide](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - **Claude.ai**: Go to [settings](https://claude.ai/settings/profile) > Integrations > + Add integration, then use `https://mcp.intercom.com/mcp`
 - **Cursor**: [MCP configuration guide](https://docs.cursor.com/context/model-context-protocol)
